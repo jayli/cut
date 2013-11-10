@@ -1,0 +1,14 @@
+{
+    "name": "cut",
+    "version": "1.0",
+    "desc": "卡片切换组件",
+    "cover": "",
+    "tag":"",
+    "author": {
+        "name": "bachi",
+        "email": "bachi@taobao.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
